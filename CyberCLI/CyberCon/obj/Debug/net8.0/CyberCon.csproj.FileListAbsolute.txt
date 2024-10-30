@@ -1,0 +1,15 @@
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\bin\Debug\net8.0\CyberCon.exe
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\bin\Debug\net8.0\CyberCon.deps.json
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\bin\Debug\net8.0\CyberCon.runtimeconfig.json
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\bin\Debug\net8.0\CyberCon.dll
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\bin\Debug\net8.0\CyberCon.pdb
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.AssemblyInfoInputs.cache
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.AssemblyInfo.cs
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.csproj.CoreCompileInputs.cache
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.sourcelink.json
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.dll
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\refint\CyberCon.dll
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.pdb
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\CyberCon.genruntimeconfig.cache
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\CyberCLI\CyberCon\obj\Debug\net8.0\ref\CyberCon.dll

@@ -1,0 +1,15 @@
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/bin/Debug/net8.0/MoodTracker
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/bin/Debug/net8.0/MoodTracker.deps.json
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/bin/Debug/net8.0/MoodTracker.runtimeconfig.json
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/bin/Debug/net8.0/MoodTracker.dll
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/bin/Debug/net8.0/MoodTracker.pdb
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.AssemblyInfoInputs.cache
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.AssemblyInfo.cs
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.csproj.CoreCompileInputs.cache
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.sourcelink.json
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.dll
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/refint/MoodTracker.dll
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.pdb
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/MoodTracker.genruntimeconfig.cache
+/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MoodTrackApp/MoodTracker/obj/Debug/net8.0/ref/MoodTracker.dll

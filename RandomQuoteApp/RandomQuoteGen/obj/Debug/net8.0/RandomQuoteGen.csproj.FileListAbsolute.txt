@@ -1,0 +1,15 @@
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.AssemblyInfoInputs.cache
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.AssemblyInfo.cs
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.csproj.CoreCompileInputs.cache
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.sourcelink.json
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\bin\Debug\net8.0\RandomQuoteGen.exe
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\bin\Debug\net8.0\RandomQuoteGen.deps.json
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\bin\Debug\net8.0\RandomQuoteGen.runtimeconfig.json
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\bin\Debug\net8.0\RandomQuoteGen.dll
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\bin\Debug\net8.0\RandomQuoteGen.pdb
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.dll
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\refint\RandomQuoteGen.dll
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.pdb
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\RandomQuoteGen.genruntimeconfig.cache
+C:\Users\Yamz\Desktop\console-csharp\Sharp-Console\RandomQuoteApp\RandomQuoteGen\obj\Debug\net8.0\ref\RandomQuoteGen.dll

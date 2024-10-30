@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemLane")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce761ff774c40cb683c96e9495cd09cc6fd08565")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a12abf203c638f05e3787fa26ce2c4df2ef4b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemLane")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemLane")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

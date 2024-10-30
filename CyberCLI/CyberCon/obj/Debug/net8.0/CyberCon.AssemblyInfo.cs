@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CyberCon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24abca08c5ddfdc81a20410771db04395c7d1347")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a12abf203c638f05e3787fa26ce2c4df2ef4b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CyberCon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CyberCon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

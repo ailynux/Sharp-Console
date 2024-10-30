@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomQuoteGen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cfdd68705aa703b4816f5466f064f0cbf694630")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47a12abf203c638f05e3787fa26ce2c4df2ef4b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomQuoteGen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomQuoteGen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

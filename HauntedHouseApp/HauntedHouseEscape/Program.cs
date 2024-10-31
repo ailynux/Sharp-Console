@@ -173,7 +173,7 @@ class HauntedHouseEscape
         }
     }
 
-    static void LookAround()
+ static void LookAround()
     {
         string[] spookyFindings = {
             "a spider crawls up your arm!", "you hear faint whispers...", "a shadow flits past you...",
@@ -190,19 +190,20 @@ class HauntedHouseEscape
 
         if (random.Next(2) == 0)
         {
-            string item = (currentRoom == "Living Room" && !foundMysteriousNote) ? "Mysterious Note" : "Skeleton Key";
-            Console.WriteLine($"You find a {item} and add it to your inventory!");
-            inventory.Add(item);
-
-            if (item == "Mysterious Note")
+            if (currentRoom == "Living Room" && !foundMysteriousNote)
             {
+                Console.WriteLine("You find a Mysterious Note and add it to your inventory!");
+                inventory.Add("Mysterious Note");
                 foundMysteriousNote = true;
-                Console.WriteLine("\nThe note reads: 'The way out is hidden beneath the floor...'");
             }
-
-            if (item == "Skeleton Key" && currentRoom == "Kitchen") // Final key needed to escape
+            else if (currentRoom == "Kitchen" && !inventory.Contains("Skeleton Key"))
             {
-                hasFinalKey = true;
+                Console.WriteLine("You find a Skeleton Key and add it to your inventory!");
+                inventory.Add("Skeleton Key");
+            }
+            else
+            {
+                Console.WriteLine("Nothing useful here...");
             }
         }
     }
@@ -272,5 +273,13 @@ class HauntedHouseEscape
         Console.WriteLine("As you walk away, you feel a gaze on your back... but when you turn, there’s nothing there.");
         Console.WriteLine("The house sits silent, but a faint light glows from within... the spirits will await your return.");
         Environment.Exit(0);
+    }
+    static void CheckForEscape()
+    {
+        // Check if player has both the Skeleton Key and Mysterious Note
+        if (inventory.Contains("Skeleton Key") && inventory.Contains("Mysterious Note"))
+        {
+            hasFinalKey = true;  // Trigger escape sequence
+        }
     }
 }

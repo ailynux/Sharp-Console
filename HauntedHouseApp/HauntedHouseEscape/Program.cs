@@ -26,8 +26,8 @@ class HauntedHouseEscape
     }
 
     static void ShowIntro()
-{
-    string pumpkinGhost = @"
+    {
+        string pumpkinGhost = @"
                         ..'''''..                    
                     .';:cccccccc:;'.                
                   .:cccccccccccccccc:.              
@@ -49,76 +49,67 @@ class HauntedHouseEscape
         🎃 The Haunted House of Midnight Terrors 👻
     ";
 
-    string introText = @"
+        string introText = @"
 ╔══════════════════════════════════════════════════════════════╗
 ║  As the clock approaches midnight on All Hallows' Eve,       ║
 ║  you find yourself drawn to an ancient mansion where         ║
 ║  tortured spirits roam the halls, seeking new company...     ║
-║                                                             ║
+║                                                              ║
 ║  Legend speaks of those who entered on Halloween night,      ║
 ║  never to be seen again. Their souls forever trapped         ║
-║  within these cursed walls...                               ║
-║                                                             ║
+║  within these cursed walls...                                ║
+║                                                              ║
 ║  You must escape before the final bell tolls at midnight,    ║
-║  or join the eternal dance of the damned!                   ║
-║                                                             ║
+║  or join the eternal dance of the damned!                    ║
+║                                                              ║
 ║  🕯️  Beware the shadows...                                   ║
-║  🦇  Trust nothing...                                        ║
-║  ⚰️  Survive everything...                                   ║
+║  🦇  Trust nothing...                                        ║ 
+║  ⚰️  Survive everything...                                   ║ 
 ╚══════════════════════════════════════════════════════════════╝
 ";
 
-    // Function to slowly type out text for spooky effect
-    void TypeWriter(string text, int delay = 10)
-    {
-        foreach (char c in text)
+        // Function to slowly type out text for spooky effect
+        void TypeWriter(string text, int delay = 10)
         {
-            Console.Write(c);
-            Thread.Sleep(delay);
+            foreach (char c in text)
+            {
+                Console.Write(c);
+                Thread.Sleep(delay);
+            }
+            Console.WriteLine();
         }
-        Console.WriteLine();
-    }
 
-    // Clear console and set window title
-    Console.Clear();
-    Console.Title = "🎃 The Haunted House of Midnight Terrors 👻";
+        // Clear console and set window title
+        Console.Clear();
+        Console.Title = "🎃 The Haunted House of Midnight Terrors 👻";
 
-    // Display the pumpkin ghost in orange
-    Console.ForegroundColor = ConsoleColor.DarkYellow;
-    Console.WriteLine(pumpkinGhost);
-    Console.ResetColor();
+        // Display the pumpkin ghost in orange
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        Console.WriteLine(pumpkinGhost);
+        Console.ResetColor();
 
-    // Flicker effect for the title
-    for (int i = 0; i < 3; i++)
-    {
-        Console.ForegroundColor = ConsoleColor.Gray;
-        Thread.Sleep(200);
-        Console.ForegroundColor = ConsoleColor.Red;
-        Thread.Sleep(200);
-    }
+        // Flicker effect for the title
+        for (int i = 0; i < 3; i++)
+        {
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Thread.Sleep(200);
+            Console.ForegroundColor = ConsoleColor.Red;
+            Thread.Sleep(200);
+        }
 
-    // Display the intro text with typewriter effect
-    Console.ForegroundColor = ConsoleColor.DarkRed;
-    TypeWriter(introText);
-    Console.ResetColor();
+        // Display the intro text with typewriter effect
+        Console.ForegroundColor = ConsoleColor.DarkRed;
+        TypeWriter(introText, 30);
+        Console.ResetColor();
 
-    // Spooky prompt
-    Console.ForegroundColor = ConsoleColor.DarkGray;
-    Console.WriteLine("\n🕸️  Press any key to enter... if you dare... 🕸️");
-    Console.ResetColor();
-
-    // Dim flicker effect while waiting for key press
-    while (!Console.KeyAvailable)
-    {
+        // Spooky prompt
         Console.ForegroundColor = ConsoleColor.DarkGray;
-        Thread.Sleep(500);
-        Console.ForegroundColor = ConsoleColor.Gray;
-        Thread.Sleep(500);
-    }
+        Console.WriteLine("\n🕸️  Press any key to enter... if you dare... 🕸️");
+        Console.ResetColor();
 
-    Console.ReadKey(true);
-    Console.Clear(); // Clear screen for game start
-}
+        Console.ReadKey(true);
+        Console.Clear(); // Clear screen for game start
+    }
 
     static void ExploreRoom(string roomName)
     {
@@ -207,6 +198,11 @@ class HauntedHouseEscape
             {
                 foundMysteriousNote = true;
                 Console.WriteLine("\nThe note reads: 'The way out is hidden beneath the floor...'");
+            }
+
+            if (item == "Skeleton Key" && currentRoom == "Kitchen") // Final key needed to escape
+            {
+                hasFinalKey = true;
             }
         }
     }

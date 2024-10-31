@@ -62,9 +62,9 @@ class HauntedHouseEscape
 ║  You must escape before the final bell tolls at midnight,    ║
 ║  or join the eternal dance of the damned!                    ║
 ║                                                              ║
-║  🕯️  Beware the shadows...                                   ║
+║  🕯️  Beware the shadows...                                    ║
 ║  🦇  Trust nothing...                                        ║ 
-║  ⚰️  Survive everything...                                   ║ 
+║  ⚰️  Survive everything...                                    ║ 
 ╚══════════════════════════════════════════════════════════════╝
 ";
 

@@ -1,0 +1,15 @@
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/bin/Debug/net8.0/HauntedHouseEscape
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/bin/Debug/net8.0/HauntedHouseEscape.deps.json
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/bin/Debug/net8.0/HauntedHouseEscape.runtimeconfig.json
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/bin/Debug/net8.0/HauntedHouseEscape.dll
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/bin/Debug/net8.0/HauntedHouseEscape.pdb
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.AssemblyInfoInputs.cache
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.AssemblyInfo.cs
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.csproj.CoreCompileInputs.cache
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.sourcelink.json
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.dll
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/refint/HauntedHouseEscape.dll
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.pdb
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/HauntedHouseEscape.genruntimeconfig.cache
+/workspaces/Sharp-Console/HauntedHouseApp/HauntedHouseEscape/obj/Debug/net8.0/ref/HauntedHouseEscape.dll

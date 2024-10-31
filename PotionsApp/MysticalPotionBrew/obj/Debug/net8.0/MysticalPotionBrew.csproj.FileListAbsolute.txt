@@ -1,0 +1,15 @@
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/bin/Debug/net8.0/MysticalPotionBrew
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/bin/Debug/net8.0/MysticalPotionBrew.deps.json
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/bin/Debug/net8.0/MysticalPotionBrew.runtimeconfig.json
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/bin/Debug/net8.0/MysticalPotionBrew.dll
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/bin/Debug/net8.0/MysticalPotionBrew.pdb
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.AssemblyInfoInputs.cache
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.AssemblyInfo.cs
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.csproj.CoreCompileInputs.cache
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.sourcelink.json
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.dll
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/refint/MysticalPotionBrew.dll
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.pdb
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/MysticalPotionBrew.genruntimeconfig.cache
+/workspaces/Sharp-Console/PotionsApp/MysticalPotionBrew/obj/Debug/net8.0/ref/MysticalPotionBrew.dll

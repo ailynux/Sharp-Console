@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/ailyndiaz/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MemoryLaneApp/MemLane/MemLane.csproj",
+      "projectUniqueName": "/workspaces/Sharp-Console/MemoryLaneApp/MemLane/MemLane.csproj",
       "projectName": "MemLane",
-      "projectPath": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MemoryLaneApp/MemLane/MemLane.csproj",
-      "packagesPath": "/Users/ailyndiaz/.nuget/packages/",
-      "outputPath": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MemoryLaneApp/MemLane/obj/",
+      "projectPath": "/workspaces/Sharp-Console/MemoryLaneApp/MemLane/MemLane.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Sharp-Console/MemoryLaneApp/MemLane/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ailyndiaz/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

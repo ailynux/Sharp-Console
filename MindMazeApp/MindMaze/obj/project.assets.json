@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/ailyndiaz/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MindMazeApp/MindMaze/MindMaze.csproj",
+      "projectUniqueName": "/workspaces/Sharp-Console/MindMazeApp/MindMaze/MindMaze.csproj",
       "projectName": "MindMaze",
-      "projectPath": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MindMazeApp/MindMaze/MindMaze.csproj",
-      "packagesPath": "/Users/ailyndiaz/.nuget/packages/",
-      "outputPath": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/MindMazeApp/MindMaze/obj/",
+      "projectPath": "/workspaces/Sharp-Console/MindMazeApp/MindMaze/MindMaze.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Sharp-Console/MindMazeApp/MindMaze/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ailyndiaz/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

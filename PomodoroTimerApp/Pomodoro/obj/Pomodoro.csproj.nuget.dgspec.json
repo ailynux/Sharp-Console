@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj": {}
+    "/workspaces/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj": {}
   },
   "projects": {
-    "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj": {
+    "/workspaces/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj",
+        "projectUniqueName": "/workspaces/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj",
         "projectName": "Pomodoro",
-        "projectPath": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj",
-        "packagesPath": "/Users/ailyndiaz/.nuget/packages/",
-        "outputPath": "/Users/ailyndiaz/Desktop/sharpconsole/Sharp-Console/PomodoroTimerApp/Pomodoro/obj/",
+        "projectPath": "/workspaces/Sharp-Console/PomodoroTimerApp/Pomodoro/Pomodoro.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/Sharp-Console/PomodoroTimerApp/Pomodoro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ailyndiaz/.nuget/NuGet/NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

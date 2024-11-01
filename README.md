@@ -11,7 +11,7 @@
 
 ### 🚀 A Collection of C# Console Applications for Experimentation and Learning
 
-[View Demo](https://your-demo-link.com) · [Report Bug](https://github.com/yourusername/Sharp-Console/issues) · [Request Feature](https://github.com/yourusername/Sharp-Console/issues)
+[View Demo](https://your-demo-link.com) · [Report Bug](https://github.com/ailynux/Sharp-Console/issues) · [Request Feature](https://github.com/ailynux/Sharp-Console/issues)
 
 </div>
 
@@ -179,8 +179,6 @@ Contributions are what make the open source community such an amazing place to l
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-[Previous content remains the same until the Contact section...]
 
 ## 📫 Contact
 

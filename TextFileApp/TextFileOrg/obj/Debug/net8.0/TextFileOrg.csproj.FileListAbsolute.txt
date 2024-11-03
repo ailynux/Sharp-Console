@@ -1,0 +1,15 @@
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/bin/Debug/net8.0/TextFileOrg
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/bin/Debug/net8.0/TextFileOrg.deps.json
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/bin/Debug/net8.0/TextFileOrg.runtimeconfig.json
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/bin/Debug/net8.0/TextFileOrg.dll
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/bin/Debug/net8.0/TextFileOrg.pdb
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.AssemblyInfoInputs.cache
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.AssemblyInfo.cs
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.csproj.CoreCompileInputs.cache
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.sourcelink.json
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.dll
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/refint/TextFileOrg.dll
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.pdb
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/TextFileOrg.genruntimeconfig.cache
+/workspaces/Sharp-Console/TextFileApp/TextFileOrg/obj/Debug/net8.0/ref/TextFileOrg.dll

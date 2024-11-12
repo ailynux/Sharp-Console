@@ -10,6 +10,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="150" height="150"/>
 
 ### 🚀 A Collection of C# Console Applications for Experimentation and Learning
+#### New Apps added weekly 
 
 [View Demo](https://your-demo-link.com) · [Report Bug](https://github.com/ailynux/Sharp-Console/issues) · [Request Feature](https://github.com/ailynux/Sharp-Console/issues)
 
